@@ -22,9 +22,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadAnsoriNasution&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/MuhammadAnsoriNasution"><img alt="Muhammad Ansori Nasution" src="https://activity-graph.herokuapp.com/graph?username=MuhammadAnsoriNasution&custom_title=MuhammadAnsoriNasution%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
